@@ -13,7 +13,8 @@
 
 * cal_nocomment.py — тот же код, но без комментариев для более компактного просмотра
 
-* icon.ico — иконка приложения ![](images/ic.png)
+* icon.ico — иконка приложения ![](images/ic.png) =32x32
+
   
 ![](images/Calculator.jpg)
 ![](images/cal_kod.jpg)
