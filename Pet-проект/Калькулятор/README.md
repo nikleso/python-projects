@@ -15,6 +15,6 @@
 
 * icon.ico — иконка приложения
 ![](images/python-projects/Pet-проект/Калькулятор/images/Calculator.jpg)
-![](images/screenshot2.png)
+![](images/Calculator.jpg)
 ![](images/screenshot3.png)
 
