@@ -1,0 +1,19 @@
+CREATE DATABASE cookies; 
+
+	CREATE TABLE predictions(
+	    prediction_id SERIAL PRIMARY KEY,
+	    pred_text VARCHAR(240) NOT NULL
+	);
+	
+	
+	INSERT INTO predictions(pred_text) VALUES
+	('Smile!'),
+	('Good luck!'),
+	('Be happy!'),
+	('You are great!'),
+	('Friends love you'),
+	('You can do it!'),
+	('Have fun!'),
+	('Be brave!'),
+	('Dream big!'),
+    ('Be kind!');
